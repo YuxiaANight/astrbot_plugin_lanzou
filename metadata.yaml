@@ -1,6 +1,6 @@
-name: 蓝奏云解析
-display_name: astrbot_plugin_lanzou
+display_name: 蓝奏云解析
+name: astrbot_plugin_lanzuyuxia
 desc: 蓝奏云链接直链解析插件
 author: 雨下¹整晚²
 version: 1.0.8
-repo: https://github.com/YuxiaANight/astrbot_plugin_lanzou
+repo: https://github.com/YuxiaANight/astrbot_plugin_lanzuyuxia
