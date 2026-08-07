@@ -1,0 +1,12 @@
+{
+    "enable_llm_tool": {
+        "description": "启用 LLM 工具",
+        "type": "bool",
+        "default": true
+    },
+    "request_timeout": {
+        "description": "请求超时时间",
+        "type": "int",
+        "default": 20
+    }
+}
